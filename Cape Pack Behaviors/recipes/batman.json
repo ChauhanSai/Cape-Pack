@@ -1,0 +1,38 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "cscape:batman"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"www",
+			"abc"
+		],
+		"key": {
+			"w": {
+				"item": "minecraft:wool"
+			},
+			"a": {
+				"item": "minecraft:dye",
+				"data": 11
+			},
+			"b": {
+				"item": "minecraft:dye",
+				"data": 16
+			},
+			"c": {
+				"item": "minecraft:dye",
+				"data": 11
+			}
+		},
+		"result": [
+			{
+				"item": "cscape:batman"
+			}
+		]
+	}
+}

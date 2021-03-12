@@ -1,0 +1,21 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:bossnass_undo_iron"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:bossnass_iron"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:iron_chestplate"
+			}
+		]
+	}
+}

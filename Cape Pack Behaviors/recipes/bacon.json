@@ -1,0 +1,38 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "cscape:bacon"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"www",
+			"abc"
+		],
+		"key": {
+			"w": {
+				"item": "minecraft:wool"
+			},
+			"a": {
+				"item": "minecraft:dye",
+				"data": 9
+			},
+			"b": {
+				"item": "minecraft:dye",
+				"data": 1
+			},
+			"c": {
+				"item": "minecraft:dye",
+				"data": 3
+			}
+		},
+		"result": [
+			{
+				"item": "cscape:bacon"
+			}
+		]
+	}
+}

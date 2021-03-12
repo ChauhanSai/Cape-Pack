@@ -1,0 +1,21 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:birthday_undo_chain"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:birthday_chain"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:chainmail_chestplate"
+			}
+		]
+	}
+}

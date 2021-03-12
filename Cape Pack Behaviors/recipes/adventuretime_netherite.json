@@ -1,0 +1,25 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:adventuretime_netherite"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:adventuretime"
+			},
+			{
+				"item": "minecraft:netherite_chestplate"
+			}
+		],
+		"result": [
+			{
+				"item": "cscape:adventuretime_netherite"
+			}
+		]
+	}
+}

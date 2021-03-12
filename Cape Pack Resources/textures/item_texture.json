@@ -1,5 +1,36 @@
 {
-  "resource_pack_name": "bridgeRP",
-  "texture_name": "atlas.items",
-  "texture_data": {}
+	"resource_pack_name": "bridgeRP",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"adventuretime": {
+			"textures": "textures/items/adventuretime"
+		},
+		"arabian": {
+			"textures": "textures/items/arabian"
+		},
+		"bacon": {
+			"textures": "textures/items/bacon"
+		},
+		"batman": {
+			"textures": "textures/items/batman"
+		},
+		"birthday": {
+			"textures": "textures/items/birthday"
+		},
+		"blue": {
+			"textures": "textures/items/blue"
+		},
+		"bluehoodie": {
+			"textures": "textures/items/bluehoodie"
+		},
+		"bossnass": {
+			"textures": "textures/items/bossnass"
+		},
+		"bluesteve": {
+			"textures": "textures/items/bluesteve"
+		},
+		"bluetuxedo": {
+			"textures": "textures/items/bluetuxedo"
+		}
+	}
 }

@@ -1,0 +1,49 @@
+{
+	"display_name": "Cape",
+	"description": "Makes all the files for a cape set",
+	"icon": "mdi-briefcase-account",
+	"target_version": "$project_target_version >= 1.16.100",
+	
+	"bp_map": {
+		"cape_item.json": "items/{{IDENTIFIER}}.json",
+		"leather_item.json": "items/{{IDENTIFIER}}_leather.json",
+		"chain_item.json": "items/{{IDENTIFIER}}_chain.json",
+		"iron_item.json": "items/{{IDENTIFIER}}_iron.json",
+		"gold_item.json": "items/{{IDENTIFIER}}_gold.json",
+		"diamond_item.json": "items/{{IDENTIFIER}}_diamond.json",
+		"netherite_item.json": "items/{{IDENTIFIER}}_netherite.json",
+		"recipe.json": "recipes/{{IDENTIFIER}}.json",
+		"recipe_leather.json": "recipes/{{IDENTIFIER}}_leather.json",
+		"recipe_chain.json": "recipes/{{IDENTIFIER}}_chain.json",
+		"recipe_iron.json": "recipes/{{IDENTIFIER}}_iron.json",
+		"recipe_gold.json": "recipes/{{IDENTIFIER}}_gold.json",
+		"recipe_diamond.json": "recipes/{{IDENTIFIER}}_diamond.json",
+		"recipe_netherite.json": "recipes/{{IDENTIFIER}}_netherite.json",
+		"recipe_undo_leather.json": "recipes/{{IDENTIFIER}}_undo_leather.json",
+		"recipe_undo_chain.json": "recipes/{{IDENTIFIER}}_undo_chain.json",
+		"recipe_undo_iron.json": "recipes/{{IDENTIFIER}}_undo_iron.json",
+		"recipe_undo_gold.json": "recipes/{{IDENTIFIER}}_undo_gold.json",
+		"recipe_undo_diamond.json": "recipes/{{IDENTIFIER}}_undo_diamond.json",
+		"recipe_undo_netherite.json": "recipes/{{IDENTIFIER}}_undo_netherite.json"
+	},
+	"rp_map": {
+		"attachable.json": "attachables/{{IDENTIFIER}}.json",
+		"attachable.player.json": "attachables/{{IDENTIFIER}}.player.json",
+		"attachable_leather.json": "attachables/{{IDENTIFIER}}_leather.json",
+		"attachable_leather.player.json": "attachables/{{IDENTIFIER}}_leather.player.json",
+		"attachable_chain.json": "attachables/{{IDENTIFIER}}_chain.json",
+		"attachable_chain.player.json": "attachables/{{IDENTIFIER}}_chain.player.json",
+		"attachable_iron.json": "attachables/{{IDENTIFIER}}_iron.json",
+		"attachable_iron.player.json": "attachables/{{IDENTIFIER}}_iron.player.json",
+		"attachable_gold.json": "attachables/{{IDENTIFIER}}_gold.json",
+		"attachable_gold.player.json": "attachables/{{IDENTIFIER}}_gold.player.json",
+		"attachable_diamond.json": "attachables/{{IDENTIFIER}}_diamond.json",
+		"attachable_diamond.player.json": "attachables/{{IDENTIFIER}}_diamond.player.json",
+		"attachable_netherite.json": "attachables/{{IDENTIFIER}}_netherite.json",
+		"attachable_netherite.player.json": "attachables/{{IDENTIFIER}}_netherite.player.json"
+	},
+	"expand_rp_files": {
+		"item_texture.json": "textures/item_texture.json",
+		"en_US.lang": "texts/en_US.lang"
+	}
+}

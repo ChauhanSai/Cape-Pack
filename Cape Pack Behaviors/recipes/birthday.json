@@ -1,0 +1,38 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "cscape:birthday"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"www",
+			"abc"
+		],
+		"key": {
+			"w": {
+				"item": "minecraft:wool"
+			},
+			"a": {
+				"item": "minecraft:dye",
+				"data": 12
+			},
+			"b": {
+				"item": "minecraft:dye",
+				"data": 17
+			},
+			"c": {
+				"item": "minecraft:dye",
+				"data": 19
+			}
+		},
+		"result": [
+			{
+				"item": "cscape:birthday"
+			}
+		]
+	}
+}

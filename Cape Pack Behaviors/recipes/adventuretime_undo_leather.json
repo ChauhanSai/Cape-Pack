@@ -1,0 +1,22 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:adventuretime_undo_leather"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:adventuretime_leather"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:leather_chestplate"
+			}
+		]
+	}
+}

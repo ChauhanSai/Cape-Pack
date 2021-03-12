@@ -1,0 +1,7 @@
+item.{{PROJ_PREFIX}}:{{IDENTIFIER}}="" Cape
+item.{{PROJ_PREFIX}}:{{IDENTIFIER}}_leather=Leather 
+item.{{PROJ_PREFIX}}:{{IDENTIFIER}}_chain=Chain 
+item.{{PROJ_PREFIX}}:{{IDENTIFIER}}_iron=Iron 
+item.{{PROJ_PREFIX}}:{{IDENTIFIER}}_gold=Gold 
+item.{{PROJ_PREFIX}}:{{IDENTIFIER}}_diamond=Diamond 
+item.{{PROJ_PREFIX}}:{{IDENTIFIER}}_netherite=Netherite 

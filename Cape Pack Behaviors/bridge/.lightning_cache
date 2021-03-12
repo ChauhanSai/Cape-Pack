@@ -1,0 +1,2262 @@
+{
+	"attachable": {
+		"RP/attachables/adventuretime_diamond.player.json": {
+			"texture_references": [
+				"default"
+			],
+			"material_references": [
+				"default"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/adventuretime.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/adventuretime.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bacon_leather.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bacon_chain.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bacon_iron.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bacon_iron.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bacon_chain.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bacon.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bacon_gold.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bacon_diamond.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bacon_gold.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bacon_netherite.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bacon_leather.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bacon_netherite.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bacon.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bacon_diamond.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/batman_gold.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/birthday.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/birthday_leather.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/birthday_leather.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/birthday.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/birthday_chain.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/birthday_iron.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/birthday_gold.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/birthday_iron.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/birthday_chain.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/birthday_diamond.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/birthday_netherite.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/birthday_gold.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/birthday_diamond.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/birthday_netherite.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/blue_leather.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/blue.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/blue_leather.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/blue_iron.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/blue_iron.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/blue_chain.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/blue.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/blue_gold.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/blue_diamond.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/blue_diamond.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/blue_chain.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/blue_gold.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/blue_netherite.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/blue_netherite.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluehoodie.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluehoodie_leather.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluehoodie_diamond.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluehoodie_chain.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluehoodie_chain.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluehoodie_gold.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluehoodie_netherite.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluehoodie_diamond.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluehoodie_iron.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluehoodie_netherite.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluehoodie_gold.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluehoodie_leather.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluehoodie.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluehoodie_iron.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bossnass.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bossnass.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bossnass_leather.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bossnass_chain.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bossnass_leather.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bossnass_chain.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bossnass_iron.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bossnass_iron.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bossnass_gold.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bossnass_netherite.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bossnass_gold.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bossnass_diamond.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bossnass_diamond.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bossnass_netherite.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluesteve.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluesteve.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluesteve_leather.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluesteve_iron.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluesteve_iron.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluesteve_chain.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluesteve_gold.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluesteve_chain.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluesteve_diamond.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluesteve_leather.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluesteve_gold.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluesteve_diamond.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluesteve_netherite.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluesteve_netherite.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluetuxedo.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluetuxedo_leather.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluetuxedo_chain.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluetuxedo_leather.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluetuxedo_chain.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluetuxedo_iron.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluetuxedo_iron.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluetuxedo_gold.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluetuxedo_netherite.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluetuxedo_gold.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluetuxedo.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluetuxedo_diamond.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluetuxedo_diamond.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		},
+		"RP/attachables/bluetuxedo_netherite.player.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		}
+	},
+	"entity": {
+		"BP/entities/player.json": {
+			"events": [
+				"minecraft:gain_bad_omen",
+				"minecraft:clear_add_bad_omen",
+				"minecraft:trigger_raid",
+				"minecraft:remove_raid_trigger"
+			],
+			"bridge_core_tags": [],
+			"identifiers": [
+				"minecraft:player"
+			],
+			"animation_references": [],
+			"families": [
+				"player"
+			],
+			"custom_commands": [],
+			"custom_components": []
+		}
+	},
+	"item": {
+		"BP/items/adventuretime_iron.json": {
+			"identifiers": [
+				"cscape:adventuretime_iron"
+			],
+			"custom_commands": []
+		},
+		"BP/items/adventuretime_diamond.json": {
+			"identifiers": [
+				"cscape:adventuretime_diamond"
+			],
+			"custom_commands": []
+		},
+		"BP/items/adventuretime_netherite.json": {
+			"identifiers": [
+				"cscape:adventuretime_netherite"
+			],
+			"custom_commands": []
+		},
+		"BP/items/adventuretime_leather.json": {
+			"identifiers": [
+				"cscape:adventuretime_leather"
+			],
+			"custom_commands": []
+		},
+		"BP/items/adventuretime_chain.json": {
+			"identifiers": [
+				"cscape:adventuretime_chain"
+			],
+			"custom_commands": []
+		},
+		"BP/items/adventuretime_gold.json": {
+			"identifiers": [
+				"cscape:adventuretime_gold"
+			],
+			"custom_commands": []
+		},
+		"BP/items/adventuretime.json": {
+			"identifiers": [
+				"cscape:adventuretime"
+			],
+			"custom_commands": []
+		},
+		"BP/items/arabian_iron.json": {
+			"identifiers": [
+				"cscape:arabian_iron"
+			],
+			"custom_commands": []
+		},
+		"BP/items/arabian_chain.json": {
+			"identifiers": [
+				"cscape:arabian_chain"
+			],
+			"custom_commands": []
+		},
+		"BP/items/arabian_gold.json": {
+			"identifiers": [
+				"cscape:arabian_gold"
+			],
+			"custom_commands": []
+		},
+		"BP/items/arabian_diamond.json": {
+			"identifiers": [
+				"cscape:arabian_diamond"
+			],
+			"custom_commands": []
+		},
+		"BP/items/arabian_netherite.json": {
+			"identifiers": [
+				"cscape:arabian_netherite"
+			],
+			"custom_commands": []
+		},
+		"BP/items/arabian_leather.json": {
+			"identifiers": [
+				"cscape:arabian_leather"
+			],
+			"custom_commands": []
+		},
+		"BP/items/arabian.json": {
+			"identifiers": [
+				"cscape:arabian"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bacon_gold.json": {
+			"identifiers": [
+				"cscape:bacon_gold"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bacon_diamond.json": {
+			"identifiers": [
+				"cscape:bacon_diamond"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bacon_chain.json": {
+			"identifiers": [
+				"cscape:bacon_chain"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bacon.json": {
+			"identifiers": [
+				"cscape:bacon"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bacon_leather.json": {
+			"identifiers": [
+				"cscape:bacon_leather"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bacon_iron.json": {
+			"identifiers": [
+				"cscape:bacon_iron"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bacon_netherite.json": {
+			"identifiers": [
+				"cscape:bacon_netherite"
+			],
+			"custom_commands": []
+		},
+		"BP/items/batman_iron.json": {
+			"identifiers": [
+				"cscape:batman_iron"
+			],
+			"custom_commands": []
+		},
+		"BP/items/batman_gold.json": {
+			"identifiers": [
+				"cscape:batman_gold"
+			],
+			"custom_commands": []
+		},
+		"BP/items/batman_leather.json": {
+			"identifiers": [
+				"cscape:batman_leather"
+			],
+			"custom_commands": []
+		},
+		"BP/items/batman_netherite.json": {
+			"identifiers": [
+				"cscape:batman_netherite"
+			],
+			"custom_commands": []
+		},
+		"BP/items/batman_chain.json": {
+			"identifiers": [
+				"cscape:batman_chain"
+			],
+			"custom_commands": []
+		},
+		"BP/items/batman.json": {
+			"identifiers": [
+				"cscape:batman"
+			],
+			"custom_commands": []
+		},
+		"BP/items/batman_diamond.json": {
+			"identifiers": [
+				"cscape:batman_diamond"
+			],
+			"custom_commands": []
+		},
+		"BP/items/birthday_iron.json": {
+			"identifiers": [
+				"cscape:birthday_iron"
+			],
+			"custom_commands": []
+		},
+		"BP/items/birthday_leather.json": {
+			"identifiers": [
+				"cscape:birthday_leather"
+			],
+			"custom_commands": []
+		},
+		"BP/items/birthday_chain.json": {
+			"identifiers": [
+				"cscape:birthday_chain"
+			],
+			"custom_commands": []
+		},
+		"BP/items/birthday.json": {
+			"identifiers": [
+				"cscape:birthday"
+			],
+			"custom_commands": []
+		},
+		"BP/items/birthday_diamond.json": {
+			"identifiers": [
+				"cscape:birthday_diamond"
+			],
+			"custom_commands": []
+		},
+		"BP/items/birthday_gold.json": {
+			"identifiers": [
+				"cscape:birthday_gold"
+			],
+			"custom_commands": []
+		},
+		"BP/items/birthday_netherite.json": {
+			"identifiers": [
+				"cscape:birthday_netherite"
+			],
+			"custom_commands": []
+		},
+		"BP/items/blue_iron.json": {
+			"identifiers": [
+				"cscape:blue_iron"
+			],
+			"custom_commands": []
+		},
+		"BP/items/blue_netherite.json": {
+			"identifiers": [
+				"cscape:blue_netherite"
+			],
+			"custom_commands": []
+		},
+		"BP/items/blue_diamond.json": {
+			"identifiers": [
+				"cscape:blue_diamond"
+			],
+			"custom_commands": []
+		},
+		"BP/items/blue_leather.json": {
+			"identifiers": [
+				"cscape:blue_leather"
+			],
+			"custom_commands": []
+		},
+		"BP/items/blue_gold.json": {
+			"identifiers": [
+				"cscape:blue_gold"
+			],
+			"custom_commands": []
+		},
+		"BP/items/blue.json": {
+			"identifiers": [
+				"cscape:blue"
+			],
+			"custom_commands": []
+		},
+		"BP/items/blue_chain.json": {
+			"identifiers": [
+				"cscape:blue_chain"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bluehoodie_diamond.json": {
+			"identifiers": [
+				"cscape:bluehoodie_diamond"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bluehoodie.json": {
+			"identifiers": [
+				"cscape:bluehoodie"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bluehoodie_iron.json": {
+			"identifiers": [
+				"cscape:bluehoodie_iron"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bluehoodie_netherite.json": {
+			"identifiers": [
+				"cscape:bluehoodie_netherite"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bluehoodie_gold.json": {
+			"identifiers": [
+				"cscape:bluehoodie_gold"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bluehoodie_chain.json": {
+			"identifiers": [
+				"cscape:bluehoodie_chain"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bluehoodie_leather.json": {
+			"identifiers": [
+				"cscape:bluehoodie_leather"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bossnass_chain.json": {
+			"identifiers": [
+				"cscape:bossnass_chain"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bossnass_netherite.json": {
+			"identifiers": [
+				"cscape:bossnass_netherite"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bossnass_diamond.json": {
+			"identifiers": [
+				"cscape:bossnass_diamond"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bossnass_leather.json": {
+			"identifiers": [
+				"cscape:bossnass_leather"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bossnass_iron.json": {
+			"identifiers": [
+				"cscape:bossnass_iron"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bossnass.json": {
+			"identifiers": [
+				"cscape:bossnass"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bossnass_gold.json": {
+			"identifiers": [
+				"cscape:bossnass_gold"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bluesteve_gold.json": {
+			"identifiers": [
+				"cscape:bluesteve_gold"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bluesteve_leather.json": {
+			"identifiers": [
+				"cscape:bluesteve_leather"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bluesteve_iron.json": {
+			"identifiers": [
+				"cscape:bluesteve_iron"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bluesteve_netherite.json": {
+			"identifiers": [
+				"cscape:bluesteve_netherite"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bluesteve.json": {
+			"identifiers": [
+				"cscape:bluesteve"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bluesteve_diamond.json": {
+			"identifiers": [
+				"cscape:bluesteve_diamond"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bluesteve_chain.json": {
+			"identifiers": [
+				"cscape:bluesteve_chain"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bluetuxedo_chain.json": {
+			"identifiers": [
+				"cscape:bluetuxedo_chain"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bluetuxedo_iron.json": {
+			"identifiers": [
+				"cscape:bluetuxedo_iron"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bluetuxedo.json": {
+			"identifiers": [
+				"cscape:bluetuxedo"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bluetuxedo_gold.json": {
+			"identifiers": [
+				"cscape:bluetuxedo_gold"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bluetuxedo_diamond.json": {
+			"identifiers": [
+				"cscape:bluetuxedo_diamond"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bluetuxedo_leather.json": {
+			"identifiers": [
+				"cscape:bluetuxedo_leather"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bluetuxedo_netherite.json": {
+			"identifiers": [
+				"cscape:bluetuxedo_netherite"
+			],
+			"custom_commands": []
+		}
+	},
+	"recipe": {
+		"BP/recipes/adventuretime.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/adventuretime_leather.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/adventuretime_undo_leather.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/adventuretime_gold.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/arabian_undo_chain/arabian.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/arabian.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bacon.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bacon_leather.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bacon_iron.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bacon_netherite.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bacon_diamond.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bacon_undo_chain.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bacon_undo_leather.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bacon_undo_diamond.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bacon_undo_iron.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bacon_gold.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bacon_undo_gold.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bacon_undo_netherite.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bacon_chain.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/batman.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/birthday.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/birthday_chain.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/birthday_netherite.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/birthday_iron.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/birthday_undo_leather.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/birthday_diamond.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/birthday_undo_chain.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/birthday_leather.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/birthday_undo_iron.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/birthday_undo_diamond.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/birthday_undo_netherite.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/birthday_undo_gold.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/birthday_gold.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/blue_netherite.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/blue_chain.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/blue.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/blue_iron.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/blue_diamond.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/blue_undo_iron.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/blue_gold.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/blue_undo_chain.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/blue_leather.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/blue_undo_gold.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/blue_undo_leather.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/blue_undo_diamond.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/blue_undo_netherite.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluehoodie_gold.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluehoodie_iron.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluehoodie_chain.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluehoodie_diamond.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluehoodie.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluehoodie_leather.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluehoodie_netherite.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluehoodie_undo_chain.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluehoodie_undo_gold.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluehoodie_undo_leather.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluehoodie_undo_iron.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluehoodie_undo_diamond.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluehoodie_undo_netherite.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bossnass_netherite.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bossnass_diamond.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bossnass.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bossnass_gold.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bossnass_undo_iron.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bossnass_undo_leather.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bossnass_iron.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bossnass_undo_gold.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bossnass_leather.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bossnass_undo_diamond.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bossnass_chain.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bossnass_undo_chain.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bossnass_undo_netherite.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluesteve_leather.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluesteve_chain.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluesteve_gold.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluesteve_iron.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluesteve_netherite.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluesteve_diamond.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluesteve_undo_iron.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluesteve_undo_gold.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluesteve_undo_chain.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluesteve_undo_leather.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluesteve_undo_diamond.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluesteve.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluesteve_undo_netherite.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluetuxedo_iron.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluetuxedo_leather.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluetuxedo_gold.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluetuxedo.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluetuxedo_netherite.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluetuxedo_undo_leather.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluetuxedo_chain.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluetuxedo_diamond.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluetuxedo_undo_iron.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluetuxedo_undo_netherite.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluetuxedo_undo_diamond.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluetuxedo_undo_gold.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/bluetuxedo_undo_chain.json": {
+			"tags": [
+				"crafting_table"
+			]
+		}
+	}
+}
