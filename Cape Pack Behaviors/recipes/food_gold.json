@@ -1,0 +1,24 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:food_gold"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:food"
+			},
+			{
+				"item": "minecraft:golden_chestplate"
+			}
+		],
+		"result": [
+			{
+				"item": "cscape:food_gold"
+			}
+		]
+	}
+}

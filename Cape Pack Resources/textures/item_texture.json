@@ -31,6 +31,165 @@
 		},
 		"bluetuxedo": {
 			"textures": "textures/items/bluetuxedo"
+		},
+		"card": {
+			"textures": "textures/items/card"
+		},
+		"cat": {
+			"textures": "textures/items/cat"
+		},
+		"christmas": {
+			"textures": "textures/items/christmas"
+		},
+		"cobalt": {
+			"textures": "textures/items/cobalt"
+		},
+		"computer": {
+			"textures": "textures/items/computer"
+		},
+		"construction": {
+			"textures": "textures/items/construction"
+		},
+		"countdooku": {
+			"textures": "textures/items/countdooku"
+		},
+		"devils": {
+			"textures": "textures/items/devils"
+		},
+		"donkey": {
+			"textures": "textures/items/donkey"
+		},
+		"dracula": {
+			"textures": "textures/items/dracula"
+		},
+		"elf": {
+			"textures": "textures/items/elf"
+		},
+		"emerald": {
+			"textures": "textures/items/emerald"
+		},
+		"enderdragon": {
+			"textures": "textures/items/enderdragon"
+		},
+		"enderman": {
+			"textures": "textures/items/enderman"
+		},
+		"enderpearl": {
+			"textures": "textures/items/enderpearl"
+		},
+		"evilwizard": {
+			"textures": "textures/items/evilwizard"
+		},
+		"fire": {
+			"textures": "textures/items/fire"
+		},
+		"firework": {
+			"textures": "textures/items/firework"
+		},
+		"fnaf": {
+			"textures": "textures/items/fnaf"
+		},
+		"food": {
+			"textures": "textures/items/food"
+		},
+		"fox": {
+			"textures": "textures/items/fox"
+		},
+		"founder": {
+			"textures": "textures/items/founder"
+		},
+		"frankensteinbride": {
+			"textures": "textures/items/frankensteinbride"
+		},
+		"gapple": {
+			"textures": "textures/items/gapple"
+		},
+		"generalgrievous": {
+			"textures": "textures/items/generalgrievous"
+		},
+		"green": {
+			"textures": "textures/items/green"
+		},
+		"greenhoodie": {
+			"textures": "textures/items/greenhoodie"
+		},
+		"greensteve": {
+			"textures": "textures/items/greensteve"
+		},
+		"greentuxedo": {
+			"textures": "textures/items/greentuxedo"
+		},
+		"grimreaper": {
+			"textures": "textures/items/grimreaper"
+		},
+		"gummy": {
+			"textures": "textures/items/gummy"
+		},
+		"halodrone": {
+			"textures": "textures/items/halodrone"
+		},
+		"headphone": {
+			"textures": "textures/items/headphone"
+		},
+		"huntresswizard": {
+			"textures": "textures/items/huntresswizard"
+		},
+		"lando": {
+			"textures": "textures/items/lando"
+		},
+		"mamanbrigitte": {
+			"textures": "textures/items/mamanbrigitte"
+		},
+		"mango": {
+			"textures": "textures/items/mango"
+		},
+		"maori": {
+			"textures": "textures/items/maori"
+		},
+		"marketplace": {
+			"textures": "textures/items/marketplace"
+		},
+		"masamedda": {
+			"textures": "textures/items/masamedda"
+		},
+		"maverick": {
+			"textures": "textures/items/maverick"
+		},
+		"mc": {
+			"textures": "textures/items/mc"
+		},
+		"microsoft": {
+			"textures": "textures/items/microsoft"
+		},
+		"minecon2011": {
+			"textures": "textures/items/minecon2011"
+		},
+		"minecon2011a": {
+			"textures": "textures/items/minecon2011a"
+		},
+		"minecon2011b": {
+			"textures": "textures/items/minecon2011b"
+		},
+		"minecon2011c": {
+			"textures": "textures/items/minecon2011c"
+		},
+		"minecon2012": {
+			"textures": "textures/items/minecon2012"
+		},
+		"minecon2013": {
+			"textures": "textures/items/minecon2013"
+		},
+		"minecon2015": {
+			"textures": "textures/items/minecon2015"
+		},
+		"minecon2016": {
+			"textures": "textures/items/minecon2016"
+		},
+		"mojang": {
+			"textures": "textures/items/mojang"
+		},
+		"mojangclassic": {
+			"textures": "textures/items/mojangclassic"
 		}
 	}
 }

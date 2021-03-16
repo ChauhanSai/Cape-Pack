@@ -1,0 +1,21 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:minecon2016_undo_iron"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:minecon2016_iron"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:iron_chestplate"
+			}
+		]
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:construction_undo_leather"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:construction_leather"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:leather_chestplate"
+			}
+		]
+	}
+}

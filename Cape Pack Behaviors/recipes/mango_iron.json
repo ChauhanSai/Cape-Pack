@@ -1,0 +1,24 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:mango_iron"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:mango"
+			},
+			{
+				"item": "minecraft:iron_chestplate"
+			}
+		],
+		"result": [
+			{
+				"item": "cscape:mango_iron"
+			}
+		]
+	}
+}

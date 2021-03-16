@@ -1,0 +1,24 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:founder_gold"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:founder"
+			},
+			{
+				"item": "minecraft:golden_chestplate"
+			}
+		],
+		"result": [
+			{
+				"item": "cscape:founder_gold"
+			}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:christmas_leather"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:christmas"
+			},
+			{
+				"item": "minecraft:leather_chestplate"
+			}
+		],
+		"result": [
+			{
+				"item": "cscape:christmas_leather"
+			}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:mojangclassic_gold"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:mojangclassic"
+			},
+			{
+				"item": "minecraft:golden_chestplate"
+			}
+		],
+		"result": [
+			{
+				"item": "cscape:mojangclassic_gold"
+			}
+		]
+	}
+}

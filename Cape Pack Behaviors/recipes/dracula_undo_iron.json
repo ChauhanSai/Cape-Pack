@@ -1,0 +1,21 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:dracula_undo_iron"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:dracula_iron"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:iron_chestplate"
+			}
+		]
+	}
+}

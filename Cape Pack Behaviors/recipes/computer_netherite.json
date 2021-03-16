@@ -1,0 +1,24 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:computer_netherite"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:computer"
+			},
+			{
+				"item": "minecraft:netherite_chestplate"
+			}
+		],
+		"result": [
+			{
+				"item": "cscape:computer_netherite"
+			}
+		]
+	}
+}

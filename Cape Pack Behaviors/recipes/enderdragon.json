@@ -1,0 +1,37 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "cscape:enderdragon"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"www",
+			"abc"
+		],
+		"key": {
+			"w": {
+				"item": "minecraft:wool"
+			},
+			"a": {
+				"item": "minecraft:dye",
+				"data": 8
+			},
+			"b": {
+				"item": "minecraft:dye",
+				"data": 16
+			},
+			"c": {
+				"item": "minecraft:dye",
+				"data": 8
+			}
+		},
+		"result": [
+			{
+				"item": "cscape:enderdragon"
+			}
+		]
+	}
+}
