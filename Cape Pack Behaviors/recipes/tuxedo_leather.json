@@ -1,0 +1,24 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:tuxedo_leather"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:tuxedo"
+			},
+			{
+				"item": "minecraft:leather_chestplate"
+			}
+		],
+		"result": [
+			{
+				"item": "cscape:tuxedo_leather"
+			}
+		]
+	}
+}

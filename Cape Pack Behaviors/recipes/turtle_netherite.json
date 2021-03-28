@@ -1,0 +1,24 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:turtle_netherite"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:turtle"
+			},
+			{
+				"item": "minecraft:netherite_chestplate"
+			}
+		],
+		"result": [
+			{
+				"item": "cscape:turtle_netherite"
+			}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:orangehoodie_diamond"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:orangehoodie"
+			},
+			{
+				"item": "minecraft:diamond_chestplate"
+			}
+		],
+		"result": [
+			{
+				"item": "cscape:orangehoodie_diamond"
+			}
+		]
+	}
+}

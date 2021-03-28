@@ -1,0 +1,21 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:derpred_undo_netherite"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:derpred_netherite"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:netherite_chestplate"
+			}
+		]
+	}
+}

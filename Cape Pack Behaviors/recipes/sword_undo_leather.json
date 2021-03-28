@@ -1,0 +1,21 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:sword_undo_leather"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:sword_leather"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:leather_chestplate"
+			}
+		]
+	}
+}

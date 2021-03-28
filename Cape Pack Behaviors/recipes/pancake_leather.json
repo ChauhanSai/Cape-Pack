@@ -1,0 +1,24 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:pancake_leather"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:pancake"
+			},
+			{
+				"item": "minecraft:leather_chestplate"
+			}
+		],
+		"result": [
+			{
+				"item": "cscape:pancake_leather"
+			}
+		]
+	}
+}

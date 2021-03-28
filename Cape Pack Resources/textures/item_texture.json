@@ -190,6 +190,132 @@
 		},
 		"mojangclassic": {
 			"textures": "textures/items/mojangclassic"
+		},
+		"naruto": {
+			"textures": "textures/items/naruto"
+		},
+		"nazir": {
+			"textures": "textures/items/nazir"
+		},
+		"newyear": {
+			"textures": "textures/items/newyear"
+		},
+		"noob": {
+			"textures": "textures/items/noob"
+		},
+		"notch": {
+			"textures": "textures/items/notch"
+		},
+		"derpblue": {
+			"textures": "textures/items/derpblue"
+		},
+		"derpgreen": {
+			"textures": "textures/items/derpgreen"
+		},
+		"derporange": {
+			"textures": "textures/items/derporange"
+		},
+		"derpred": {
+			"textures": "textures/items/derpred"
+		},
+		"optifine": {
+			"textures": "textures/items/optifine"
+		},
+		"optifinepurple": {
+			"textures": "textures/items/optifinepurple"
+		},
+		"orange": {
+			"textures": "textures/items/orange"
+		},
+		"orangehoodie": {
+			"textures": "textures/items/orangehoodie"
+		},
+		"orangesteve": {
+			"textures": "textures/items/orangesteve"
+		},
+		"orangetuxedo": {
+			"textures": "textures/items/orangetuxedo"
+		},
+		"padmeamidala": {
+			"textures": "textures/items/padmeamidala"
+		},
+		"palpatine": {
+			"textures": "textures/items/palpatine"
+		},
+		"pancake": {
+			"textures": "textures/items/pancake"
+		},
+		"poggle": {
+			"textures": "textures/items/poggle"
+		},
+		"poggleblue": {
+			"textures": "textures/items/poggleblue"
+		},
+		"potato": {
+			"textures": "textures/items/potato"
+		},
+		"prismarine": {
+			"textures": "textures/items/prismarine"
+		},
+		"professor": {
+			"textures": "textures/items/professor"
+		},
+		"purple": {
+			"textures": "textures/items/purple"
+		},
+		"rainbow": {
+			"textures": "textures/items/rainbow"
+		},
+		"red": {
+			"textures": "textures/items/red"
+		},
+		"redblue": {
+			"textures": "textures/items/redblue"
+		},
+		"redsteve": {
+			"textures": "textures/items/redsteve"
+		},
+		"redstone": {
+			"textures": "textures/items/redstone"
+		},
+		"redtuxedo": {
+			"textures": "textures/items/redtuxedo"
+		},
+		"scrolls": {
+			"textures": "textures/items/scrolls"
+		},
+		"snowman": {
+			"textures": "textures/items/snowman"
+		},
+		"spartanfemale": {
+			"textures": "textures/items/spartanfemale"
+		},
+		"spartanmale": {
+			"textures": "textures/items/spartanmale"
+		},
+		"star": {
+			"textures": "textures/items/star"
+		},
+		"sword": {
+			"textures": "textures/items/sword"
+		},
+		"troll": {
+			"textures": "textures/items/troll"
+		},
+		"tuxedo": {
+			"textures": "textures/items/tuxedo"
+		},
+		"turtle": {
+			"textures": "textures/items/turtle"
+		},
+		"vampirelord": {
+			"textures": "textures/items/vampirelord"
+		},
+		"veteran": {
+			"textures": "textures/items/veteran"
+		},
+		"wickedwitch": {
+			"textures": "textures/items/wickedwitch"
 		}
 	}
 }

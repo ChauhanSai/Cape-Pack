@@ -1,0 +1,24 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:troll_gold"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:troll"
+			},
+			{
+				"item": "minecraft:golden_chestplate"
+			}
+		],
+		"result": [
+			{
+				"item": "cscape:troll_gold"
+			}
+		]
+	}
+}
