@@ -1,0 +1,24 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:mushroom_block_skin_red_gold"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:mushroom_block_skin_red"
+			},
+			{
+				"item": "minecraft:golden_chestplate"
+			}
+		],
+		"result": [
+			{
+				"item": "cscape:mushroom_block_skin_red_gold"
+			}
+		]
+	}
+}

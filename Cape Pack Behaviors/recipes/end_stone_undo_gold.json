@@ -1,0 +1,21 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:end_stone_undo_gold"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:end_stone_gold"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:golden_chestplate"
+			}
+		]
+	}
+}

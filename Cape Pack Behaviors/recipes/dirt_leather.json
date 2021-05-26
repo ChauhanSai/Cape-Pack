@@ -1,0 +1,24 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:dirt_leather"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:dirt"
+			},
+			{
+				"item": "minecraft:leather_chestplate"
+			}
+		],
+		"result": [
+			{
+				"item": "cscape:dirt_leather"
+			}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:iron_block_chain"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:iron_block"
+			},
+			{
+				"item": "minecraft:chainmail_chestplate"
+			}
+		],
+		"result": [
+			{
+				"item": "cscape:iron_block_chain"
+			}
+		]
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:bone_block_side_undo_gold"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:bone_block_side_gold"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:golden_chestplate"
+			}
+		]
+	}
+}

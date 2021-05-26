@@ -1,0 +1,24 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:emerald_ore_leather"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:emerald_ore"
+			},
+			{
+				"item": "minecraft:leather_chestplate"
+			}
+		],
+		"result": [
+			{
+				"item": "cscape:emerald_ore_leather"
+			}
+		]
+	}
+}

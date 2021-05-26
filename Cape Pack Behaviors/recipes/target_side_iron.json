@@ -1,0 +1,24 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:target_side_iron"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:target_side"
+			},
+			{
+				"item": "minecraft:iron_chestplate"
+			}
+		],
+		"result": [
+			{
+				"item": "cscape:target_side_iron"
+			}
+		]
+	}
+}

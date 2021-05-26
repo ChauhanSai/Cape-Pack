@@ -24,7 +24,7 @@
 				"protection": 0.1
 			},
 			"minecraft:icon": {
-				"texture": "sword"
+				"texture": "swordblue"
 			}
 		},
 		"events": {}

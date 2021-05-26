@@ -1,0 +1,21 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:warped_wart_block_undo_diamond"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:warped_wart_block_diamond"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:diamond_chestplate"
+			}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:concrete_orange_chain"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:concrete_orange"
+			},
+			{
+				"item": "minecraft:chainmail_chestplate"
+			}
+		],
+		"result": [
+			{
+				"item": "cscape:concrete_orange_chain"
+			}
+		]
+	}
+}

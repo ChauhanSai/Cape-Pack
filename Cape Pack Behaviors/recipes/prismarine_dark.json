@@ -1,0 +1,29 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "cscape:prismarine_dark"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"www",
+			"xxx"
+		],
+		"key": {
+			"w": {
+				"item": "minecraft:wool"
+			},
+			"x": {
+				"item": "minecraft:prismarine",
+				"data": 1
+			}
+		},
+		"result": [
+			{
+				"item": "cscape:prismarine_dark"
+			}
+		]
+	}
+}

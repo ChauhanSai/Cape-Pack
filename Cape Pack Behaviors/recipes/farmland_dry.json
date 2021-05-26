@@ -1,0 +1,33 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "cscape:farmland_dry"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			" h ",
+			"www",
+			"xxx"
+		],
+		"key": {
+			"w": {
+				"item": "minecraft:wool"
+			},
+			"h": {
+				"item": "minecraft:wooden_hoe"
+			},
+			"x": {
+				"item": "minecraft:dirt",
+				"data": 0
+			}
+		},
+		"result": [
+			{
+				"item": "cscape:farmland_dry"
+			}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:prismarine_dark_iron"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:prismarine_dark"
+			},
+			{
+				"item": "minecraft:iron_chestplate"
+			}
+		],
+		"result": [
+			{
+				"item": "cscape:prismarine_dark_iron"
+			}
+		]
+	}
+}

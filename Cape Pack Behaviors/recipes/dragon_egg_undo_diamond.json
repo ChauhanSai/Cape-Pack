@@ -1,0 +1,21 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cscape:dragon_egg_undo_diamond"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "cscape:dragon_egg_diamond"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:diamond_chestplate"
+			}
+		]
+	}
+}

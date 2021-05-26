@@ -1,0 +1,29 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "cscape:mushroom_block_skin_brown"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"www",
+			"xxx"
+		],
+		"key": {
+			"w": {
+				"item": "minecraft:wool"
+			},
+			"x": {
+				"item": "minecraft:brown_mushroom",
+				"data": 0
+			}
+		},
+		"result": [
+			{
+				"item": "cscape:mushroom_block_skin_brown"
+			}
+		]
+	}
+}

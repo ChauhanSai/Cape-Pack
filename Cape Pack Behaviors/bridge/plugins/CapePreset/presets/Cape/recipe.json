@@ -9,22 +9,14 @@
 		],
 		"pattern": [
 			"www",
-			"abc"
+			"xxx"
 		],
 		"key": {
 			"w": {
 				"item": "minecraft:wool"
 			},
-			"a": {
-				"item": "minecraft:dye",
-				"data": 0
-			},
-			"b": {
-				"item": "minecraft:dye",
-				"data": 0
-			},
-			"c": {
-				"item": "minecraft:dye",
+			"x": {
+				"item": "minecraft:zzz",
 				"data": 0
 			}
 		},
