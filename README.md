@@ -1,25 +1,35 @@
 # Cape Pack
 ### A Minecraft Addon made with Javascript
+
+<a href="https://bridge-core.github.io/">
+<img src="https://img.shields.io/badge/Editor-bridge.-informational?style=flat&color=1d1f21" alt="Editor bridge.">
+</a>
+
+<br> 
+<p align="center">
 <img src="https://raw.githubusercontent.com/ChauhanSai/Cape-Pack/main/Cape%20Pack%20Behaviors/Logo.png" alt="Cape Pack Logo" width="640"/>
+</p>
+<br> 
+<p align="center">
+<!--Cape-Pack-->  
+<a href="https://github.com/ChauhanSai/Cape-Pack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChauhanSai&repo=Cape-Pack&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1d1f21" />
+</a>
+<br> <br> 
+<b>This addon adds 211 new capes that can be applied to chestplates to equip and wear.</b>
+</p>
 
-
-##### This mod adds new capes that can be applied to chestplates to equip and wear.
-
-## New Capes:
+## Regular Capes:
 > Craft the base cape and (optional) combine with a chestplate in a crafting table
 
-Crafting | 1 | 2 | 3
--------- | - | - | -
-1 | Wool  | Wool  | Wool 
-2 | Dye | Dye | Dye
-3 |   |   |  
+<img src="https://i.imgur.com/fFwdkXY.png" title="Regular cape crafting recipe(New Year shown)" /> *
 
 * Adventure Time
 * Arabian
 * Bacon
 * Batman
 * Birthday
-* Blue
+* Blue Flat
 * Blue Hoodie
 * Blue Steve
 * Blue Tuxedo
@@ -31,12 +41,16 @@ Crafting | 1 | 2 | 3
 * Computer
 * Construction
 * Count Dooku
+* Derp Blue
+* Derp Green
+* Derp Orange
+* Derp Red
 * Devils
 * Donkey
 * Dracula
 * Elf
 * Emerald
-* Ender Dragon
+* Enderdragon
 * Enderman
 * Ender Pearl
 * Evil Wizard
@@ -46,7 +60,7 @@ Crafting | 1 | 2 | 3
 * Food
 * Founder
 * Fox
-* Frankenstein Bride
+* Frankenstein's Bride
 * Gapple
 * General Grievous
 * Green
@@ -63,7 +77,7 @@ Crafting | 1 | 2 | 3
 * Mango
 * Maori
 * Marketplace
-* Masa Medda
+* Masamedda
 * Maverick
 * MC
 * Microsoft
@@ -77,13 +91,9 @@ Crafting | 1 | 2 | 3
 * Minecon 2016
 * Mojang
 * Mojang Classic
-* Derp Blue
-* Derp Green
-* Derp Orange
-* Derp Red
 * Naruto
 * Nazir
-* New Year
+* New Year*
 * Noob
 * Notch
 * Optifine
@@ -91,13 +101,17 @@ Crafting | 1 | 2 | 3
 * Orange
 * Orange Hoodie
 * Orange Steve
+* Orange Tuxedo
 * Padmé Amidala
 * Palpatine
 * Pancake
 * Poggle
 * Poggle Blue
 * Potato
+* Prismarine
+* Professor
 * Purple
+* Rainbow
 * Red
 * Red-Blue
 * Red Steve
@@ -110,8 +124,120 @@ Crafting | 1 | 2 | 3
 * Star
 * Sword
 * Troll
-* Tuxedo
 * Turtle
+* Tuxedo
 * Vampire Lord
 * Veteran
 * Wicked Witch
+
+## Block Capes:
+> Craft the block cape and (optional) combine with a chestplate in a crafting table
+
+<img src="https://i.imgur.com/sTZKPmu.png" title="Block cape crafting recipe(Bedrock shown)" /> *
+
+* Basalt
+* Bedrock*
+* Blackstone
+* Blue Ice
+* Bone Block
+* Bookshelf
+* Brick
+* Cake
+* Chorus
+* Clay
+* Coal
+* Coal Ore
+* Mossy Cobblestone
+* Cobblestone
+* Black Concrete
+* Blue Concrete
+* Brown Concrete
+* Cyan Concrete
+* Gray Concrete
+* Green Concrete
+* Light Blue Concrete
+* Lime Concrete
+* Magenta Concrete
+* Orange Concrete
+* Pink Concrete
+* Purple Concrete
+* Red Concrete
+* Gray Concrete
+* White Concrete
+* Yellow Concrete
+* Blue Coral
+* Pink Coral
+* Purple Coral
+* Red Coral
+* Yellow Coral
+* Crimson Nylium
+* Diamond
+* Diamond Ore
+* Dirt
+* Dragon Egg
+* Emerald
+* Emerald Ore
+* End Brick
+* End Stone
+* Farmland
+* Glowstone
+* Gold
+* Gold Ore
+* Grass
+* Grass Path
+* Ice
+* Iron
+* Iron Ore
+* Lapis
+* Lapis Ore
+* Acacia Log
+* Dark Oak Log
+* Birch Log
+* Jungle Log
+* Oak Log
+* Spruce Log
+* Magma
+* Melon
+* Mushroom
+* Brown Mushroom
+* Red Mushroom
+* Mycelium
+* Nether Brick
+* Nether Gold Ore
+* Crimson Wart
+* Netherite
+* Netherrack
+* Obsidian
+* Acacia Planks
+* Dark Oak Planks
+* Brich Planks
+* Jungle Planks
+* Oak Planks
+* Spruce Planks
+* Polished Basalt
+* Prismarine Bricks
+* Dark Prismarine
+* Purpur
+* Quartz Ore
+* Red Nether Brick
+* Redstone Ore
+* Sand
+* Snow
+* Soul Soil
+* Sponge
+* Andesite
+* Diorite
+* Granite
+* Smooth Stone
+* Stone
+* Stone Brick
+* Stripped Acacia Log
+* Stripped Birch Log
+* Stripped Dark Oak Log
+* Stripped Jungle Log
+* Stripped Oak Log
+* Stripped Spruce Log
+* Target
+* TNT
+* Warped Nylium
+* Warped Wart
