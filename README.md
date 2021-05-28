@@ -7,12 +7,14 @@
 
 <br> 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ChauhanSai/Cape-Pack/main/Cape%20Pack%20Behaviors/Logo.png" alt="Cape Pack Logo" width="640"/>
+<a href="https://github.com/ChauhanSai/Cape-Pack/releases/download/v1.0.0/Cape.Pack.mcaddon">
+  <img src="https://raw.githubusercontent.com/ChauhanSai/Cape-Pack/main/Cape%20Pack%20Behaviors/Logo.png" alt="Cape Pack Logo" width="640"/>
+</a>
 </p>
 <br> 
 <p align="center">
 <!--Cape-Pack-->  
-<a href="https://github.com/ChauhanSai/Cape-Pack">
+<a href="https://github.com/ChauhanSai/Cape-Pack/releases/tag/v1.0.0">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChauhanSai&repo=Cape-Pack&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1d1f21" />
 </a>
 <br> <br> 
